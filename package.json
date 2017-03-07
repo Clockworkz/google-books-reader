@@ -1,0 +1,15 @@
+{
+  "name": "google-books-reader",
+  "version": "1.0.0",
+  "description": "An Electron wrapper around google books to give a friendlier desktop experience",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
